@@ -20,7 +20,22 @@ This repository contains multiple **standalone Java projects**, each focused on 
 
 ## 📂 Repository Structure
 
-![alt text](image.png)
+java-projects/  
+│  
+├── TicTacToe/  
+│ ├── TicTacToe.java  
+│ └── README.md  
+│  
+├── Calculator/ (Coming Soon)  
+│ ├── Calculator.java  
+│ └── README.md  
+│  
+├── TodoList/ (Coming Soon)  
+│ ├── TodoList.java  
+│ └── README.md  
+│  
+└── README.md # Main repository README  
+
 ---
 
 ## 🚀 Projects Included
