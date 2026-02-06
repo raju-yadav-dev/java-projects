@@ -47,10 +47,7 @@ The application supports **two players (X and O)** and automatically handles gam
 
 ## 📂 Project Structure
 
-TicTacToe/  
-│  
-├── TicTacToe.java  
-└── README.md  
+![alt text](image.png) 
 
 ---
 
