@@ -19,7 +19,7 @@ This repository contains multiple **standalone Java projects**, each focused on 
 ---
 
 ## 📂 Repository Structure
-
+```
 java-projects/  
 │  
 ├── TicTacToe/  
@@ -35,7 +35,7 @@ java-projects/
 │ └── README.md  
 │  
 └── README.md # Main repository README  
-
+```
 ---
 
 ## 🚀 Projects Included
